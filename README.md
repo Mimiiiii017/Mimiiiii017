@@ -13,15 +13,30 @@ Welcome to my GitHub! I'm a Creative Computing student, web designer, and digita
 
 ## 🧠 Skills & Tools
 
-**Languages & Frameworks**  
-- HTML5, CSS3, JavaScript, Vue.js  
-- Kotlin (Android Studio), Flutter, Python (basic)
+### 💻 Languages & Frameworks
+- **HTML5, CSS3, JavaScript** – Core tools for building responsive and accessible front-end web experiences
+- **Vue.js** – Used in projects to create modular and reactive interfaces
+- **Kotlin (Android Studio)** – Experienced in developing native Android apps with UI elements and Firebase integration
+- **Flutter** – Used for creating cross-platform mobile apps with a focus on clean design and smooth user interaction
+- **Python (basic)** – Familiar with scripting and logic-building, used in past coursework and small tools
 
-**Design Tools**  
-- Figma, Adobe Photoshop, InDesign, Blender, Procreate
+### 🎨 Design Tools & Creative Software
+- **Figma** – My go-to for wireframes, UI prototyping, and collaborative design workflows
+- **Adobe Photoshop & InDesign** – Used for posters, postcards, and layout-based marketing designs (e.g., Gary Con, Gamehole Con)
+- **Procreate** – For custom illustrations and Twitch emotes
+- **Blender** – Experience in creating and animating simple 3D models, particularly for educational or game-related visuals
 
-**Other**  
-- Firebase, Git & GitHub, Responsive Design, UI/UX Design, Animation, Graphic Design
+### 🧰 Tools & Platforms
+- **Firebase** – Backend services for real-time databases, authentication, and app hosting
+- **Git & GitHub** – Version control for personal and collaborative projects; experienced in branching, pull requests, and project tracking
+- **VS Code & Android Studio** – Primary development environments for web and mobile projects
+- **Postman** – For API testing and integration in both web and mobile environments
+
+### 🖌️ UX/UI & Design Principles
+- **Responsive Design** – Ensuring layouts adapt to various screen sizes and devices
+- **Accessibility** – Aware of WCAG/EAA standards and strive to build inclusive digital products
+- **UI Animation & Motion** – Use subtle animations to enhance user experience and engagement
+- **Branding & Visual Identity** – Capable of designing cohesive graphics for both web and social media platforms
 
 ---
 

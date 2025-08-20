@@ -41,17 +41,19 @@ Welcome to my GitHub! I'm a Creative Computing student, web designer, and digita
 ---
 
 ## 📂 Notable Projects
+###👗 Looksy (2025)
+An AI-powered dress-up app featuring a personalized virtual wardrobe and 2D avatar visuals. Built during an Erasmus BIP program and awarded 1st place for innovation and design.
 
-### 👗 Looksy (2025)
-An AI-powered dress-up app featuring a personalized virtual wardrobe and 2D avatar visuals. Built during an Erasmus BIP program and awarded **1st place** for innovation and design.
+###🎮 Game Jam Entry (2025)
+Won 3rd place for a creative and visually immersive game developed in under 48 hours. Focused on unique gameplay mechanics and engaging storytelling.
 
-### 🎮 Game Jam Entry (2025)
-Won **3rd place** for a creative and visually immersive game developed in under 48 hours. Focused on unique gameplay mechanics and engaging storytelling.
+###💻 Tagħlima (2025)
+Coded and developed the full web platform for an entrepreneurship unit. Tagħlima is a game-driven website designed to help users learn Maltese through interactive lessons and mini-games. Features include XP tracking, daily challenges, achievements, and leaderboards—all accessible directly in the browser.
 
-### 💻 Web Design & Marketing (Ahler Advanced Marketing LLC)
-Collaborated on a company website redesign, focusing on the **cart and checkout system**. Also designed **posters and postcards** for **Gary Con 2024** and the upcoming **Gamehole Con**.
+###💻 Web Design & Marketing (Ahler Advanced Marketing LLC)
+Collaborated on a company website redesign, focusing on the cart and checkout system. Also designed posters and postcards for Gary Con 2024 and the upcoming Gamehole Con.
 
-### 🎨 Twitch Branding (Cryptic Productions LLC)
+###🎨 Twitch Branding (Cryptic Productions LLC)
 Created custom emotes, subscriber badges, and stream graphics to enhance branding and user engagement on Twitch.
 
 ---

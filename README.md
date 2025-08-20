@@ -61,11 +61,7 @@ Created custom emotes, subscriber badges, and stream graphics to enhance brandin
 - 📧 Email: vellamireya@gmail.com  
 - 🌍 LinkedIn: [linkedin.com/in/mireya-vella-65a1272a6](https://www.linkedin.com/in/mireya-vella-65a1272a6/)  
 
----
 
-## 😄 Pronouns
-
-She/Her
 
 <!---
 Mimiiiii017/Mimiiiii017 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

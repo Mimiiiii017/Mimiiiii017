@@ -1,94 +1,69 @@
-👋 Hi, I'm Mireya Vella (@Mimiiiii017)
+# 👋 Hi, I'm Mireya Vella (@Mimiiiii017)  
+Welcome to my GitHub! I'm a Creative Computing student, web designer, and digital content creator passionate about crafting beautiful and functional digital experiences. I thrive in dynamic teams, love solving problems creatively, and enjoy blending art with code to build something meaningful.  
 
-Welcome to my GitHub! I'm a Creative Computing student passionate about software engineering, web design, and digital accessibility. I enjoy combining design with code to build intelligent, inclusive, and user-friendly applications.
+---
 
-💼 About Me
+## 💼 About Me  
+🎓 I'm currently pursuing a Bachelor's Degree in Creative Computing at MCAST (2023–2026).  
+📖 I’m working on my **undergraduate dissertation in Software Engineering**, researching how **AI can evaluate and predict cognitive load in web design** to provide personalised accessibility feedback aligned with **WCAG** and the **European Accessibility Act (EAA)**.  
+🚀 I aspire to specialise in **software engineering**, with a focus on intelligent systems, accessibility-first design, and scalable web applications.  
+💡 I love working on projects that merge design, technology, and accessibility — especially when they have a real-world impact.  
 
-🎓 Pursuing a B.Sc. (Hons) in Creative Computing at MCAST (2023–2026)
+---
 
-📖 Currently working on my undergraduate dissertation in Software Engineering, developing an AI-powered predictive tool that evaluates cognitive load in web design and provides personalised accessibility feedback aligned with WCAG and the European Accessibility Act (EAA)
+## 🧠 Skills & Tools  
 
-🚀 Aspiring to specialise in software engineering, focusing on intelligent systems, accessibility-first design, and scalable web solutions
+### 💻 Languages & Frameworks  
+- **HTML5, CSS3, JavaScript** – Core tools for building responsive and accessible front-end web experiences  
+- **Vue.js** – Used in projects to create modular and reactive interfaces  
+- **Kotlin (Android Studio)** – Experienced in developing native Android apps with UI elements and Firebase integration  
+- **Flutter** – Used for creating cross-platform mobile apps with a focus on clean design and smooth user interaction  
+- **Python (basic)** – Familiar with scripting, logic-building, and early AI experimentation  
 
-🧠 Skills & Tools
-💻 Languages & Frameworks
+### 🎨 Design Tools & Creative Software  
+- **Figma** – My go-to for wireframes, UI prototyping, and collaborative design workflows  
+- **Adobe Photoshop & InDesign** – Used for posters, postcards, and layout-based marketing designs (e.g., Gary Con, Gamehole Con)  
+- **Procreate** – For custom illustrations and Twitch emotes  
+- **Blender** – Experience in creating and animating simple 3D models, particularly for educational or game-related visuals  
 
-HTML5, CSS3, JavaScript – Core front-end development
+### 🧰 Tools & Platforms  
+- **Firebase** – Backend services for real-time databases, authentication, and app hosting  
+- **Git & GitHub** – Version control for personal and collaborative projects; experienced in branching, pull requests, and project tracking  
+- **VS Code & Android Studio** – Primary development environments for web and mobile projects  
+- **Postman** – For API testing and integration in both web and mobile environments  
 
-Vue.js – Modular and reactive UI development
+### 🖌️ UX/UI & Design Principles  
+- **Responsive Design** – Ensuring layouts adapt to various screen sizes and devices  
+- **Accessibility** – Knowledge of WCAG/EAA standards; currently researching AI-driven evaluation methods  
+- **UI Animation & Motion** – Use subtle animations to enhance user experience and engagement  
+- **Branding & Visual Identity** – Capable of designing cohesive graphics for both web and social media platforms  
 
-Kotlin (Android Studio) – Native Android apps with Firebase integration
+---
 
-Flutter – Cross-platform mobile development
+## 📂 Notable Projects  
 
-Python (basic) – Scripting, automation, and AI experimentation
+### 👗 Looksy (2025)  
+An AI-powered dress-up app featuring a personalized virtual wardrobe and 2D avatar visuals. Built during an Erasmus BIP program and awarded 1st place for innovation and design.  
 
-🎨 Design & Creative Software
+### 🎮 Game Jam Entry (2025)  
+Won 3rd place for a creative and visually immersive game developed in under 48 hours. Focused on unique gameplay mechanics and engaging storytelling.  
 
-Figma – Wireframing, prototyping, and collaborative design
+### 💻 Tagħlima (2025)  
+Coded and developed the full web platform for an entrepreneurship unit. *Tagħlima* is a game-driven website designed to help users learn Maltese through interactive lessons and mini-games. Features include XP tracking, daily challenges, achievements, and leaderboards—all accessible directly in the browser.  
 
-Adobe Photoshop & InDesign – Posters, marketing assets, and layouts
+### 💻 Web Design & Marketing (Ahler Advanced Marketing LLC)  
+Collaborated on a company website redesign, focusing on the cart and checkout system. Also designed posters and postcards for Gary Con 2024 and the upcoming Gamehole Con.  
 
-Procreate – Custom illustrations (e.g., Twitch emotes)
+### 🎨 Twitch Branding (Cryptic Productions LLC)  
+Created custom emotes, subscriber badges, and stream graphics to enhance branding and user engagement on Twitch.  
 
-Blender – 3D modelling and animation
+---
 
-🧰 Tools & Platforms
+## 📫 Contact Me  
+- 📧 Email: vellamireya@gmail.com  
+- 🌍 LinkedIn: [linkedin.com/in/mireya-vella-65a1272a6](https://www.linkedin.com/in/mireya-vella-65a1272a6/)  
 
-Firebase – Authentication, hosting, and real-time databases
-
-Git & GitHub – Version control, branching workflows, and collaboration
-
-VS Code & Android Studio – Main development environments
-
-Postman – API testing and integration
-
-🖌️ Principles
-
-Responsive Design – Seamless experiences across devices
-
-Accessibility Engineering – Knowledge of WCAG/EAA; researching AI-driven accessibility evaluation
-
-UI Motion & Micro-Interactions – Enhancing usability with thoughtful animations
-
-System Architecture – Structured, modular client-side applications
-
-📂 Notable Projects
-👗 Looksy (2025)
-
-An AI-powered dress-up app featuring a personalised virtual wardrobe and 2D avatar visuals. Built during an Erasmus BIP program and awarded 1st place for innovation and design.
-
-🎮 Game Jam Entry (2025)
-
-Won 3rd place for a visually immersive game developed in under 48 hours, highlighting unique mechanics and strong narrative design.
-
-💻 Tagħlima (2025)
-
-Coded and engineered the full web platform for an entrepreneurship unit. Tagħlima is a browser-based, game-driven platform that teaches Maltese through interactive lessons and mini-games, with XP tracking, challenges, and leaderboards.
-
-💻 Web Design & Marketing (Ahler Advanced Marketing LLC)
-
-Contributed to a website redesign, focusing on the cart and checkout system. Also designed posters and postcards for Gary Con 2024 and the upcoming Gamehole Con.
-
-🎨 Twitch Branding (Cryptic Productions LLC)
-
-Created custom emotes, subscriber badges, and stream overlays to improve branding and user engagement.
-
-📖 Research (Ongoing)
-Dissertation (2025–2026)
-
-Evaluating Multimodal Accessibility and Cognitive Load using AI: A Predictive and Educational Tool for Web Designers and Developers
-
-Investigates inclusive design for users with multimodal impairments (sensory, cognitive, or motor)
-
-Proposes an AI-driven evaluation tool that predicts cognitive strain in digital interfaces
-
-Provides real-time accessibility feedback aligned with WCAG and EAA standards
-
-Aims to shape future approaches to accessibility-focused software engineering
-
-📫 Contact Me
-
-📧 vellamireya@gmail.com
-
-🌍 LinkedIn
+<!---
+Mimiiiii017/Mimiiiii017 is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->

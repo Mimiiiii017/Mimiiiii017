@@ -4,10 +4,10 @@ Welcome to my GitHub! I'm a Creative Computing student, web designer, and digita
 ---
 
 ## 💼 About Me  
-🎓 I'm currently pursuing a Bachelor's Degree in Creative Computing at MCAST (2023–2026).  
-📖 I’m working on my **undergraduate dissertation in Software Engineering**, researching how **AI can evaluate and predict cognitive load in web design** to provide personalised accessibility feedback aligned with **WCAG** and the **European Accessibility Act (EAA)**.  
-🚀 I aspire to specialise in **software engineering**, with a focus on intelligent systems, accessibility-first design, and scalable web applications.  
-💡 I love working on projects that merge design, technology, and accessibility — especially when they have a real-world impact.  
+🎓 I’m currently pursuing a **Bachelor's Degree in Creative Computing** at MCAST (2023–2026).  
+📖 I’m working on my **undergraduate dissertation in Creative Computing**, researching how **AI can evaluate and predict cognitive load in web design and development** to provide accessibility feedback aligned with **WCAG** and the **European Accessibility Act (EAA)**.  
+🚀 I aspire to specialize in **software engineering**, with a focus on **intelligent systems**, **accessibility-first design**, and **scalable web applications**.  
+💡 I love working on projects that merge **design**, **technology**, and **accessibility** — especially when they have a real-world impact.  
 
 ---
 

@@ -1,4 +1,4 @@
-# Hi, I’m Mireya Vella 👋
+# Hi, I’m Mireya 👋
 
 I’m a final-year Creative Computing student at MCAST (Malta) and an aspiring software engineer.  
 I build web and mobile applications with a focus on clean, maintainable code and practical development workflows.

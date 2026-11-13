@@ -106,6 +106,4 @@ I build web and mobile applications with a focus on clean, maintainable code and
 ---
 
 ## 📫 Contact
-- Portfolio: https://mireyavella.vercel.app/
 - LinkedIn: https://www.linkedin.com/in/mireya-vella-65a1272a6/
-- Email: vellamireya@gmail.com

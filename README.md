@@ -1,11 +1,11 @@
-# Hi, I’m Mireya 👋
+# Hi, I’m Mireya
 
 I’m a Creative Computing (Multimedia Software Development) Graduate from MCAST (Malta) and an aspiring software engineer.  
 I build web and mobile applications with a focus on clean, maintainable code and practical development workflows.
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 ### Programming Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-31353A.svg?style=for-the-badge&logo=javascript&logoColor=F97316)
@@ -100,10 +100,10 @@ I build web and mobile applications with a focus on clean, maintainable code and
 
 ---
 
-## 🌍 Languages (Spoken)
+## Languages (Spoken)
 `English — Native`  `Maltese — Native ` `Italian — Intermediate `  `French — Beginner `  
 
 ---
 
-## 📫 Contact
+## Contact
 - LinkedIn: https://www.linkedin.com/in/mireya-vella-65a1272a6/
